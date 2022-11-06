@@ -6,6 +6,16 @@
 
 - 初心者的計概
 	- https://lidemy.com/p/cs101-coding
+- 工具
+	- IDE
+		- Python
+			- Sublime
+			- VSCode
+			- Pycharm
+		- Jupyter notebook
+		- Colab
+	- 版本控制
+		- git
 
 ### 0-1) Pogramming language
 
@@ -42,7 +52,12 @@
 	- [Python 爬取 PTT 八卦版文章標題](https://steam.oxxostudio.tw/category/python/spider/ptt-gossiping.html)
 - 自動化
 	- [一段 Airflow 與資料工程的故事：談如何用 Python 追漫畫連載](https://leemeng.medium.com/%E4%B8%80%E6%AE%B5-airflow-%E8%88%87%E8%B3%87%E6%96%99%E5%B7%A5%E7%A8%8B%E7%9A%84%E6%95%85%E4%BA%8B-%E8%AB%87%E5%A6%82%E4%BD%95%E7%94%A8-python-%E8%BF%BD%E6%BC%AB%E7%95%AB%E9%80%A3%E8%BC%89-6a225427ccf8)
+- General
+	- [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 
 ## 3) Reference
 
-- https://github.com/yennanliu/knowledge_base_repo
+- 爬蟲
+	- https://github.com/yennanliu/web_scraping
+- 其他
+	- https://github.com/yennanliu/knowledge_base_repo
