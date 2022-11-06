@@ -20,15 +20,18 @@
 - CS general
 	- [CS 50](https://www.youtube.com/watch?v=4zy0z5W0-w4&list=PLhQjrBD2T380Xnv_v683p6UjiKJZe13ki)
 
+- Python
+	- 基本語法
+		- https://www.w3schools.com/python/
+	- 實作
+		- https://www.codecademy.com/learn/learn-python-3
+	- Video
+		- https://www.youtube.com/watch?v=wqRlKVRUV_k
+
 - Javascript
 	- https://www.codecademy.com/learn/introduction-to-javascript
 	- https://www.w3schools.com/js/
 	- https://blog.huli.tw/2019/08/21/real-front-end-learning-path/
-
-- Python
-	- https://www.w3schools.com/python/
-	- https://www.codecademy.com/learn/learn-python-3
-
 
 ## 2) Learn from projects
 
