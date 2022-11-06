@@ -1,11 +1,13 @@
 # Coding101
 
+> Coding 101 教學
+
 ## 0-0) Intro
 
 - 初心者的計概
 	- https://lidemy.com/p/cs101-coding
 
-## 0-1) Pogramming language
+### 0-1) Pogramming language
 
 - 前端開發, 手機app開發 :
 	- [Javascript](https://www.javascript.com/)
@@ -15,7 +17,7 @@
 	- 前後端是什麼?
 		- [網頁新手入門：初探網頁架構和前後端語言](https://medium.com/appworks-school/%E7%B6%B2%E9%A0%81%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80-%E5%88%9D%E6%8E%A2%E7%B6%B2%E9%A0%81%E6%9E%B6%E6%A7%8B%E5%92%8C%E5%89%8D%E5%BE%8C%E7%AB%AF%E8%AA%9E%E8%A8%80-a88a5dc86ee3)
 
-## 1) Learn basics
+## 1) Basics
 
 - CS general
 	- [CS 50](https://www.youtube.com/watch?v=4zy0z5W0-w4&list=PLhQjrBD2T380Xnv_v683p6UjiKJZe13ki)
