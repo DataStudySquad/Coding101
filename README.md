@@ -9,14 +9,24 @@
 - 初心者的計概
 	- https://lidemy.com/p/cs101-coding
 - 工具
+	- Command line
+		- Mac
+			- Terminal
+			- Iterm
+		- Windows
+			- 
 	- IDE
 		- Python
-			- Sublime
+			- IDE
+				- Sublime
+				- VSCode
+				- Pycharm
+			- interactive programming
+				- Jupyter notebook
+				- Colab
+		- Javascript
 			- VSCode
-			- Pycharm
-		- Jupyter notebook
-		- Colab
-	- 版本控制
+	- 版本控制 (version controller)
 		- git
 
 ### 0-1) Pogramming language
