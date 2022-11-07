@@ -13,8 +13,6 @@
 		- Mac
 			- Terminal
 			- Iterm
-		- Windows
-			- 
 	- IDE
 		- Python
 			- IDE
