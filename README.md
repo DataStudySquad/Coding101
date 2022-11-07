@@ -41,13 +41,18 @@
 
 - CS general
 	- [CS 50](https://www.youtube.com/watch?v=4zy0z5W0-w4&list=PLhQjrBD2T380Xnv_v683p6UjiKJZe13ki)
+	- [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
 
 - Python
 	- 基本語法
+		- https://docs.python.org/zh-tw/3/tutorial/index.html
 		- https://www.w3schools.com/python/
-	- 實作
+		- https://realpython.com/tutorials/basics/
+	- 實作練習
 		- https://www.codecademy.com/learn/learn-python-3
-	- Video
+		- https://www.datacamp.com/
+		- https://www.udacity.com/
+	- 教學影片
 		- https://www.youtube.com/watch?v=wqRlKVRUV_k
 
 - Javascript
