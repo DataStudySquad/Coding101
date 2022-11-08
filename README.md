@@ -20,7 +20,10 @@
 				- VSCode
 				- Pycharm
 			- interactive programming
-				- Jupyter notebook
+				- Anaconda
+					- ipython
+					- Jupyter notebook
+					- [安裝教學](https://simplelearn.tw/2022/08/09/anaconda-3-%E4%BB%8B%E7%B4%B9%E5%8F%8A%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8-2022%E6%9B%B4%E6%96%B0%E7%89%88/)
 				- Colab
 		- Javascript
 			- VSCode
