@@ -46,6 +46,7 @@
 	- [CS 50](https://www.youtube.com/watch?v=4zy0z5W0-w4&list=PLhQjrBD2T380Xnv_v683p6UjiKJZe13ki)
 	- [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
 	- [別猶豫了，來修 CS50 吧！](https://blog.techbridge.cc/2017/11/11/cs50/)
+	- [teach your self CS](https://teachyourselfcs.com/)
 
 - Python
 	- 基本語法
