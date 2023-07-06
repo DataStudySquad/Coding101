@@ -53,6 +53,7 @@
 		- https://docs.python.org/zh-tw/3/tutorial/index.html
 		- https://www.w3schools.com/python/
 		- https://realpython.com/tutorials/basics/
+  		- https://github.com/DataStudySquad/Python-1
 	- 實作練習
 		- https://www.codecademy.com/learn/learn-python-3
 		- https://www.datacamp.com/
