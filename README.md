@@ -30,7 +30,7 @@
 	- 版本控制 (version controller)
 		- git
 
-### 0-1) Pogramming language
+### 0-1) Programming language
 
 - 前端開發, 手機app開發 :
 	- [Javascript](https://www.javascript.com/)
@@ -58,6 +58,8 @@
 		- https://www.codecademy.com/learn/learn-python-3
 		- https://www.datacamp.com/
 		- https://www.udacity.com/
+    	- Mini project
+       		- https://github.com/kyclark/tiny_python_projects
 	- 教學影片
 		- https://www.youtube.com/watch?v=wqRlKVRUV_k
 
