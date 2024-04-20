@@ -12,6 +12,8 @@
 
 - 初心者的計概
 	- https://lidemy.com/p/cs101-coding
+- 軟體開發入門
+        - https://github.com/DataStudySquad/se-job/tree/master 
 - 工具
 	- Command line
 		- Mac
@@ -74,8 +76,6 @@
 
 ## 2) Learn from projects
 
-- General
-  - https://github.com/DataStudySquad/se-job/tree/master
 - 網頁開發
 - 爬蟲
 	- [Python 爬取 PTT 八卦版文章標題](https://steam.oxxostudio.tw/category/python/spider/ptt-gossiping.html)
