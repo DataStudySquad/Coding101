@@ -74,6 +74,8 @@
 
 ## 2) Learn from projects
 
+- General
+  - https://github.com/DataStudySquad/se-job/tree/master
 - 網頁開發
 - 爬蟲
 	- [Python 爬取 PTT 八卦版文章標題](https://steam.oxxostudio.tw/category/python/spider/ptt-gossiping.html)
