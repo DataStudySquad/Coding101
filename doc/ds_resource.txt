@@ -1,0 +1,6 @@
+- 1100-Days-Of-ML-Code (𝐒𝐭𝐚𝐫𝐬: ~46k - https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+- awesome-datascience (𝐒𝐭𝐚𝐫𝐬: ~25k - https://github.com/academic/awesome-datascience)
+- Data-Science-For-Beginners (𝐒𝐭𝐚𝐫𝐬: ~29k - https://github.com/microsoft/Data-Science-For-Beginners)
+- data-science-ipython-notebooks (𝐒𝐭𝐚𝐫𝐬: ~28k - https://github.com/donnemartin/data-science-ipython-notebooks)
+- Machine Learning Interviews from FAANG, LinkedIn. (𝐒𝐭𝐚𝐫𝐬: ~10k - https://github.com/khangich/machine-learning-interview)
+- data-science-interviews (𝐒𝐭𝐚𝐫𝐬: ~9k - https://github.com/alexeygrigorev/data-science-interviews)
