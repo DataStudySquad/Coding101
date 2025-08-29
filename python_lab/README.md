@@ -11,7 +11,7 @@
 
 ## Tool
 - https://codeshare.io/
-
+- https://livecodeshare.vercel.app/room/75820605
 ---
 
 ## 第一週：程式設計基礎概念
